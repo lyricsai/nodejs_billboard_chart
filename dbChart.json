@@ -1,0 +1,647 @@
+[
+  {
+    "id": "1675458000000",
+    "data": [
+      {
+        "title": "South Korea Songs",
+        "date": "Week of February 4, 2023",
+        "listings": [
+          {
+            "title": "Ditto",
+            "artist": "NewJeans",
+            "currentWeek": "1",
+            "src": "https://charts-static.billboard.com/img/2023/01/newjeans-9dv-omg-kdx-180x180.jpg",
+            "lastWeek": "1",
+            "peek": "1",
+            "weeksOn": "6"
+          },
+          {
+            "title": "OMG",
+            "artist": "NewJeans",
+            "currentWeek": "2",
+            "src": "https://charts-static.billboard.com/img/2022/12/newjeans-9dv-ditto-2fy-180x180.jpg",
+            "lastWeek": "2",
+            "peek": "1",
+            "weeksOn": "4"
+          },
+          {
+            "title": "Hype Boy",
+            "artist": "NewJeans",
+            "currentWeek": "3",
+            "src": "https://charts-static.billboard.com/img/2022/08/newjeans-9dv-180x180.jpg",
+            "lastWeek": "3",
+            "peek": "1",
+            "weeksOn": "26"
+          },
+          {
+            "title": "Event Horizon",
+            "artist": "Younha",
+            "currentWeek": "4",
+            "src": "https://www.billboard.com/wp-content/themes/vip/pmc-billboard-2021/assets/public/lazyload-fallback.gif",
+            "lastWeek": "5",
+            "peek": "1",
+            "weeksOn": "17"
+          },
+          {
+            "title": "Antifragile",
+            "artist": "LE SSERAFIM",
+            "currentWeek": "5",
+            "src": "https://www.billboard.com/wp-content/themes/vip/pmc-billboard-2021/assets/public/lazyload-fallback.gif",
+            "lastWeek": "6",
+            "peek": "2",
+            "weeksOn": "15"
+          },
+          {
+            "title": "Vibe",
+            "artist": "TAEYANG Featuring Jimin",
+            "currentWeek": "6",
+            "src": "https://www.billboard.com/wp-content/themes/vip/pmc-billboard-2021/assets/public/lazyload-fallback.gif",
+            "lastWeek": "4",
+            "peek": "4",
+            "weeksOn": "2"
+          },
+          {
+            "title": "Attention",
+            "artist": "NewJeans",
+            "currentWeek": "7",
+            "src": "https://www.billboard.com/wp-content/themes/vip/pmc-billboard-2021/assets/public/lazyload-fallback.gif",
+            "lastWeek": "7",
+            "peek": "1",
+            "weeksOn": "26"
+          },
+          {
+            "title": "After Like",
+            "artist": "IVE",
+            "currentWeek": "8",
+            "src": "https://www.billboard.com/wp-content/themes/vip/pmc-billboard-2021/assets/public/lazyload-fallback.gif",
+            "lastWeek": "8",
+            "peek": "1",
+            "weeksOn": "23"
+          },
+          {
+            "title": "Fearless",
+            "artist": "LE SSERAFIM",
+            "currentWeek": "9",
+            "src": "https://www.billboard.com/wp-content/themes/vip/pmc-billboard-2021/assets/public/lazyload-fallback.gif",
+            "lastWeek": "15",
+            "peek": "4",
+            "weeksOn": "39"
+          },
+          {
+            "title": "Love Dive",
+            "artist": "IVE",
+            "currentWeek": "10",
+            "src": "https://www.billboard.com/wp-content/themes/vip/pmc-billboard-2021/assets/public/lazyload-fallback.gif",
+            "lastWeek": "10",
+            "peek": "1",
+            "weeksOn": "40"
+          },
+          {
+            "title": "Nxde",
+            "artist": "(G)I-DLE",
+            "currentWeek": "11",
+            "src": "https://www.billboard.com/wp-content/themes/vip/pmc-billboard-2021/assets/public/lazyload-fallback.gif",
+            "lastWeek": "9",
+            "peek": "1",
+            "weeksOn": "15"
+          }
+        ]
+      },
+      {
+        "title": "Billboard Japan Hot 100",
+        "date": "Week of February 4, 2023",
+        "listings": [
+          {
+            "title": "Fearless",
+            "artist": "LE SSERAFIM",
+            "currentWeek": "1",
+            "src": "https://www.billboard.com/wp-content/themes/vip/pmc-billboard-2021/assets/public/lazyload-fallback.gif",
+            "lastWeek": "-",
+            "peek": "1",
+            "weeksOn": "21"
+          },
+          {
+            "title": "Subtitle",
+            "artist": "Official HIGE DANdism",
+            "currentWeek": "2",
+            "src": "https://www.billboard.com/wp-content/themes/vip/pmc-billboard-2021/assets/public/lazyload-fallback.gif",
+            "lastWeek": "1",
+            "peek": "1",
+            "weeksOn": "16"
+          },
+          {
+            "title": "Kick Back",
+            "artist": "Kenshi Yonezu",
+            "currentWeek": "3",
+            "src": "https://www.billboard.com/wp-content/themes/vip/pmc-billboard-2021/assets/public/lazyload-fallback.gif",
+            "lastWeek": "2",
+            "peek": "1",
+            "weeksOn": "16"
+          },
+          {
+            "title": "Kaiju No Hanauta",
+            "artist": "VAUNDY",
+            "currentWeek": "4",
+            "src": "https://www.billboard.com/wp-content/themes/vip/pmc-billboard-2021/assets/public/lazyload-fallback.gif",
+            "lastWeek": "4",
+            "peek": "3",
+            "weeksOn": "79"
+          },
+          {
+            "title": "Moonlight Sunrise",
+            "artist": "TWICE",
+            "currentWeek": "5",
+            "src": "https://www.billboard.com/wp-content/themes/vip/pmc-billboard-2021/assets/public/lazyload-fallback.gif",
+            "lastWeek": "20",
+            "peek": "5",
+            "weeksOn": "2"
+          },
+          {
+            "title": "Dai Zero Kan",
+            "artist": "10-FEET",
+            "currentWeek": "6",
+            "src": "https://www.billboard.com/wp-content/themes/vip/pmc-billboard-2021/assets/public/lazyload-fallback.gif",
+            "lastWeek": "6",
+            "peek": "6",
+            "weeksOn": "9"
+          },
+          {
+            "title": "White Noise",
+            "artist": "Official HIGE DANdism",
+            "currentWeek": "7",
+            "src": "https://www.billboard.com/wp-content/themes/vip/pmc-billboard-2021/assets/public/lazyload-fallback.gif",
+            "lastWeek": "5",
+            "peek": "5",
+            "weeksOn": "3"
+          },
+          {
+            "title": "I Love You",
+            "artist": "back number",
+            "currentWeek": "8",
+            "src": "https://www.billboard.com/wp-content/themes/vip/pmc-billboard-2021/assets/public/lazyload-fallback.gif",
+            "lastWeek": "7",
+            "peek": "5",
+            "weeksOn": "14"
+          },
+          {
+            "title": "Shin Jidai (Uta from ONE PIECE FILM RED)",
+            "artist": "Ado",
+            "currentWeek": "9",
+            "src": "https://www.billboard.com/wp-content/themes/vip/pmc-billboard-2021/assets/public/lazyload-fallback.gif",
+            "lastWeek": "8",
+            "peek": "1",
+            "weeksOn": "34"
+          },
+          {
+            "title": "Ditto",
+            "artist": "NewJeans",
+            "currentWeek": "10",
+            "src": "https://www.billboard.com/wp-content/themes/vip/pmc-billboard-2021/assets/public/lazyload-fallback.gif",
+            "lastWeek": "11",
+            "peek": "10",
+            "weeksOn": "6"
+          },
+          {
+            "title": "W / X / Y",
+            "artist": "Tani Yuuki",
+            "currentWeek": "11",
+            "src": "https://www.billboard.com/wp-content/themes/vip/pmc-billboard-2021/assets/public/lazyload-fallback.gif",
+            "lastWeek": "10",
+            "peek": "3",
+            "weeksOn": "55"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1676062800000",
+    "data": [
+      {
+        "title": "South Korea Songs",
+        "date": "Week of February 11, 2023",
+        "listings": [
+          {
+            "title": "OMG",
+            "artist": "NewJeans",
+            "currentWeek": "1",
+            "src": "https://charts-static.billboard.com/img/2023/01/newjeans-9dv-omg-kdx-180x180.jpg",
+            "lastWeek": "2",
+            "peek": "1",
+            "weeksOn": "5"
+          },
+          {
+            "title": "Ditto",
+            "artist": "NewJeans",
+            "currentWeek": "2",
+            "src": "https://charts-static.billboard.com/img/2022/12/newjeans-9dv-ditto-2fy-180x180.jpg",
+            "lastWeek": "1",
+            "peek": "1",
+            "weeksOn": "7"
+          },
+          {
+            "title": "Hype Boy",
+            "artist": "NewJeans",
+            "currentWeek": "3",
+            "src": "https://charts-static.billboard.com/img/2022/08/newjeans-9dv-180x180.jpg",
+            "lastWeek": "3",
+            "peek": "1",
+            "weeksOn": "27"
+          },
+          {
+            "title": "Event Horizon",
+            "artist": "Younha",
+            "currentWeek": "4",
+            "src": "https://www.billboard.com/wp-content/themes/vip/pmc-billboard-2021/assets/public/lazyload-fallback.gif",
+            "lastWeek": "4",
+            "peek": "1",
+            "weeksOn": "18"
+          },
+          {
+            "title": "Antifragile",
+            "artist": "LE SSERAFIM",
+            "currentWeek": "5",
+            "src": "https://charts-static.billboard.com/img/2022/10/lesserafim-71a-antifragile-10p-180x180.jpg",
+            "lastWeek": "5",
+            "peek": "2",
+            "weeksOn": "16"
+          },
+          {
+            "title": "Vibe",
+            "artist": "TAEYANG Featuring Jimin",
+            "currentWeek": "6",
+            "src": "https://charts-static.billboard.com/img/2023/01/taeyang-hvs-vibe-34u-180x180.jpg",
+            "lastWeek": "6",
+            "peek": "4",
+            "weeksOn": "3"
+          },
+          {
+            "title": "Attention",
+            "artist": "NewJeans",
+            "currentWeek": "7",
+            "src": "https://charts-static.billboard.com/img/2022/08/newjeans-9dv-180x180.jpg",
+            "lastWeek": "7",
+            "peek": "1",
+            "weeksOn": "27"
+          },
+          {
+            "title": "After Like",
+            "artist": "IVE",
+            "currentWeek": "8",
+            "src": "https://charts-static.billboard.com/img/2022/09/ive-pcg-afterlike-fo9-180x180.jpg",
+            "lastWeek": "8",
+            "peek": "1",
+            "weeksOn": "24"
+          },
+          {
+            "title": "Fearless",
+            "artist": "LE SSERAFIM",
+            "currentWeek": "9",
+            "src": "https://charts-static.billboard.com/img/2022/05/lesserafim-71a-fearless-s2m-180x180.jpg",
+            "lastWeek": "9",
+            "peek": "4",
+            "weeksOn": "40"
+          },
+          {
+            "title": "Oort Cloud",
+            "artist": "Younha",
+            "currentWeek": "10",
+            "src": "https://www.billboard.com/wp-content/themes/vip/pmc-billboard-2021/assets/public/lazyload-fallback.gif",
+            "lastWeek": "12",
+            "peek": "8",
+            "weeksOn": "13"
+          },
+          {
+            "title": "Love Dive",
+            "artist": "IVE",
+            "currentWeek": "11",
+            "src": "https://charts-static.billboard.com/img/2022/04/ive-pcg-love-dive-t18-180x180.jpg",
+            "lastWeek": "10",
+            "peek": "1",
+            "weeksOn": "41"
+          }
+        ]
+      },
+      {
+        "title": "Billboard Japan Hot 100",
+        "date": "Week of February 11, 2023",
+        "listings": [
+          {
+            "title": "Stars",
+            "artist": "J Soul Brothers 3 From Exile Tribe",
+            "currentWeek": "1",
+            "src": "https://www.billboard.com/wp-content/themes/vip/pmc-billboard-2021/assets/public/lazyload-fallback.gif",
+            "lastWeek": "NEW",
+            "peek": "1",
+            "weeksOn": "1"
+          },
+          {
+            "title": "Subtitle",
+            "artist": "Official HIGE DANdism",
+            "currentWeek": "2",
+            "src": "https://charts-static.billboard.com/img/2022/10/officialhigedandism-000-subtitle-5lm-180x180.jpg",
+            "lastWeek": "2",
+            "peek": "1",
+            "weeksOn": "17"
+          },
+          {
+            "title": "Fearless",
+            "artist": "LE SSERAFIM",
+            "currentWeek": "3",
+            "src": "https://charts-static.billboard.com/img/2022/05/lesserafim-71a-180x180.jpg",
+            "lastWeek": "1",
+            "peek": "1",
+            "weeksOn": "22"
+          },
+          {
+            "title": "Kick Back",
+            "artist": "Kenshi Yonezu",
+            "currentWeek": "4",
+            "src": "https://charts-static.billboard.com/img/2022/10/kenshi-yonezu-aoz-kickback-hzf-180x180.jpg",
+            "lastWeek": "3",
+            "peek": "1",
+            "weeksOn": "17"
+          },
+          {
+            "title": "Kaiju No Hanauta",
+            "artist": "VAUNDY",
+            "currentWeek": "5",
+            "src": "https://www.billboard.com/wp-content/themes/vip/pmc-billboard-2021/assets/public/lazyload-fallback.gif",
+            "lastWeek": "4",
+            "peek": "3",
+            "weeksOn": "80"
+          },
+          {
+            "title": "Dai Zero Kan",
+            "artist": "10-FEET",
+            "currentWeek": "6",
+            "src": "https://charts-static.billboard.com/img/2022/12/10-feet-000-daizerokan-7oc-180x180.jpg",
+            "lastWeek": "6",
+            "peek": "6",
+            "weeksOn": "10"
+          },
+          {
+            "title": "White Noise",
+            "artist": "Official HIGE DANdism",
+            "currentWeek": "7",
+            "src": "https://www.billboard.com/wp-content/themes/vip/pmc-billboard-2021/assets/public/lazyload-fallback.gif",
+            "lastWeek": "7",
+            "peek": "5",
+            "weeksOn": "4"
+          },
+          {
+            "title": "Shin Jidai (Uta from ONE PIECE FILM RED)",
+            "artist": "Ado",
+            "currentWeek": "8",
+            "src": "https://charts-static.billboard.com/img/2017/06/ado-27l-180x180.jpg",
+            "lastWeek": "9",
+            "peek": "1",
+            "weeksOn": "35"
+          },
+          {
+            "title": "I Love You",
+            "artist": "back number",
+            "currentWeek": "9",
+            "src": "https://www.billboard.com/wp-content/themes/vip/pmc-billboard-2021/assets/public/lazyload-fallback.gif",
+            "lastWeek": "8",
+            "peek": "5",
+            "weeksOn": "15"
+          },
+          {
+            "title": "Ditto",
+            "artist": "NewJeans",
+            "currentWeek": "10",
+            "src": "https://charts-static.billboard.com/img/2022/12/newjeans-9dv-ditto-w0z-180x180.jpg",
+            "lastWeek": "10",
+            "peek": "10",
+            "weeksOn": "7"
+          },
+          {
+            "title": "New Day",
+            "artist": "INI",
+            "currentWeek": "11",
+            "src": "https://www.billboard.com/wp-content/themes/vip/pmc-billboard-2021/assets/public/lazyload-fallback.gif",
+            "lastWeek": "-",
+            "peek": "11",
+            "weeksOn": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1676667600000",
+    "data": [
+      {
+        "title": "South Korea Songs",
+        "date": "Week of February 18, 2023",
+        "listings": [
+          {
+            "title": "OMG",
+            "artist": "NewJeans",
+            "currentWeek": "1",
+            "src": "https://charts-static.billboard.com/img/2023/01/newjeans-9dv-omg-kdx-180x180.jpg",
+            "lastWeek": "1",
+            "peek": "1",
+            "weeksOn": "6"
+          },
+          {
+            "title": "Ditto",
+            "artist": "NewJeans",
+            "currentWeek": "2",
+            "src": "https://charts-static.billboard.com/img/2022/12/newjeans-9dv-ditto-2fy-180x180.jpg",
+            "lastWeek": "2",
+            "peek": "1",
+            "weeksOn": "8"
+          },
+          {
+            "title": "Hype Boy",
+            "artist": "NewJeans",
+            "currentWeek": "3",
+            "src": "https://charts-static.billboard.com/img/2022/08/newjeans-9dv-180x180.jpg",
+            "lastWeek": "3",
+            "peek": "1",
+            "weeksOn": "28"
+          },
+          {
+            "title": "Event Horizon",
+            "artist": "Younha",
+            "currentWeek": "4",
+            "src": "https://www.billboard.com/wp-content/themes/vip/pmc-billboard-2021/assets/public/lazyload-fallback.gif",
+            "lastWeek": "4",
+            "peek": "1",
+            "weeksOn": "19"
+          },
+          {
+            "title": "Antifragile",
+            "artist": "LE SSERAFIM",
+            "currentWeek": "5",
+            "src": "https://charts-static.billboard.com/img/2022/10/lesserafim-71a-antifragile-10p-180x180.jpg",
+            "lastWeek": "5",
+            "peek": "2",
+            "weeksOn": "17"
+          },
+          {
+            "title": "Attention",
+            "artist": "NewJeans",
+            "currentWeek": "6",
+            "src": "https://charts-static.billboard.com/img/2022/08/newjeans-9dv-180x180.jpg",
+            "lastWeek": "7",
+            "peek": "1",
+            "weeksOn": "28"
+          },
+          {
+            "title": "Vibe",
+            "artist": "TAEYANG Featuring Jimin",
+            "currentWeek": "7",
+            "src": "https://charts-static.billboard.com/img/2023/01/taeyang-hvs-vibe-34u-180x180.jpg",
+            "lastWeek": "6",
+            "peek": "4",
+            "weeksOn": "4"
+          },
+          {
+            "title": "I Don't Think That I Like Her",
+            "artist": "Charlie Puth",
+            "currentWeek": "8",
+            "src": "https://charts-static.billboard.com/img/2015/02/charlie-puth-9ci-180x180.jpg",
+            "lastWeek": "12",
+            "peek": "8",
+            "weeksOn": "18"
+          },
+          {
+            "title": "After Like",
+            "artist": "IVE",
+            "currentWeek": "9",
+            "src": "https://charts-static.billboard.com/img/2022/09/ive-pcg-afterlike-fo9-180x180.jpg",
+            "lastWeek": "8",
+            "peek": "1",
+            "weeksOn": "25"
+          },
+          {
+            "title": "Unholy",
+            "artist": "Sam Smith & Kim Petras",
+            "currentWeek": "10",
+            "src": "https://charts-static.billboard.com/img/2022/10/sam-smith-jw8-unholy-dry-180x180.jpg",
+            "lastWeek": "19",
+            "peek": "10",
+            "weeksOn": "4"
+          },
+          {
+            "title": "Oort Cloud",
+            "artist": "Younha",
+            "currentWeek": "11",
+            "src": "https://www.billboard.com/wp-content/themes/vip/pmc-billboard-2021/assets/public/lazyload-fallback.gif",
+            "lastWeek": "10",
+            "peek": "8",
+            "weeksOn": "14"
+          }
+        ]
+      },
+      {
+        "title": "Billboard Japan Hot 100",
+        "date": "Week of February 18, 2023",
+        "listings": [
+          {
+            "title": "Fighting",
+            "artist": "BSS Featuring Lee Young Ji",
+            "currentWeek": "1",
+            "src": "https://www.billboard.com/wp-content/themes/vip/pmc-billboard-2021/assets/public/lazyload-fallback.gif",
+            "lastWeek": "-",
+            "peek": "1",
+            "weeksOn": "1"
+          },
+          {
+            "title": "Subtitle",
+            "artist": "Official HIGE DANdism",
+            "currentWeek": "2",
+            "src": "https://charts-static.billboard.com/img/2022/10/officialhigedandism-000-subtitle-5lm-180x180.jpg",
+            "lastWeek": "2",
+            "peek": "1",
+            "weeksOn": "18"
+          },
+          {
+            "title": "Best Friend Ever",
+            "artist": "NCT DREAM",
+            "currentWeek": "3",
+            "src": "https://charts-static.billboard.com/img/2016/09/nct-dream-fa7-180x180.jpg",
+            "lastWeek": "-",
+            "peek": "3",
+            "weeksOn": "1"
+          },
+          {
+            "title": "Kimi Ha Motto Dekiru",
+            "artist": "HKT48",
+            "currentWeek": "4",
+            "src": "https://www.billboard.com/wp-content/themes/vip/pmc-billboard-2021/assets/public/lazyload-fallback.gif",
+            "lastWeek": "-",
+            "peek": "4",
+            "weeksOn": "1"
+          },
+          {
+            "title": "Kaiju No Hanauta",
+            "artist": "VAUNDY",
+            "currentWeek": "5",
+            "src": "https://www.billboard.com/wp-content/themes/vip/pmc-billboard-2021/assets/public/lazyload-fallback.gif",
+            "lastWeek": "5",
+            "peek": "3",
+            "weeksOn": "81"
+          },
+          {
+            "title": "Kick Back",
+            "artist": "Kenshi Yonezu",
+            "currentWeek": "6",
+            "src": "https://charts-static.billboard.com/img/2022/10/kenshi-yonezu-aoz-kickback-hzf-180x180.jpg",
+            "lastWeek": "4",
+            "peek": "1",
+            "weeksOn": "18"
+          },
+          {
+            "title": "Dai Zero Kan",
+            "artist": "10-FEET",
+            "currentWeek": "7",
+            "src": "https://charts-static.billboard.com/img/2022/12/10-feet-000-daizerokan-7oc-180x180.jpg",
+            "lastWeek": "6",
+            "peek": "6",
+            "weeksOn": "11"
+          },
+          {
+            "title": "White Noise",
+            "artist": "Official HIGE DANdism",
+            "currentWeek": "8",
+            "src": "https://www.billboard.com/wp-content/themes/vip/pmc-billboard-2021/assets/public/lazyload-fallback.gif",
+            "lastWeek": "7",
+            "peek": "5",
+            "weeksOn": "5"
+          },
+          {
+            "title": "Hoshizukiyo",
+            "artist": "YU-KA",
+            "currentWeek": "9",
+            "src": "https://www.billboard.com/wp-content/themes/vip/pmc-billboard-2021/assets/public/lazyload-fallback.gif",
+            "lastWeek": "-",
+            "peek": "9",
+            "weeksOn": "1"
+          },
+          {
+            "title": "W / X / Y",
+            "artist": "Tani Yuuki",
+            "currentWeek": "10",
+            "src": "https://charts-static.billboard.com/img/2022/01/tani-yuuki-000-w-x-y-a6u-180x180.jpg",
+            "lastWeek": "12",
+            "peek": "3",
+            "weeksOn": "57"
+          },
+          {
+            "title": "I Love You",
+            "artist": "back number",
+            "currentWeek": "11",
+            "src": "https://www.billboard.com/wp-content/themes/vip/pmc-billboard-2021/assets/public/lazyload-fallback.gif",
+            "lastWeek": "9",
+            "peek": "5",
+            "weeksOn": "16"
+          }
+        ]
+      }
+    ]
+  }
+]
